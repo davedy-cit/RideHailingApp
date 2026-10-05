@@ -1,0 +1,48 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Environment Variables
+.env
+.env.*
+
+# React
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# Operating System
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Build Files
+build/
+
+# MySQL Workbench
+*.mwb.bak
+
+# Coverage Reports
+htmlcov/
+.coverage
+
+# Pytest
+.pytest_cache/
+
+# Django Migrations Cache
+*.pot
+
+# Temporary Files
+*.tmp
+*.temp
